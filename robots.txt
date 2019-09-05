@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheetooph.quotebookapp.com/sitemap.xml
